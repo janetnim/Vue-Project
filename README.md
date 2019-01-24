@@ -1,2 +1,2 @@
 # Vue-Project
-A Vue Js ToDo project
+A Vue Js My-Little_library frontend
